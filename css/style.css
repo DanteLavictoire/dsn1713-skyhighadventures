@@ -1,0 +1,11 @@
+#hero {
+  background-image: url(../images/climber.jpg);
+  background-color: black;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+#hero .d-flex {
+  height: 80vh;
+}
